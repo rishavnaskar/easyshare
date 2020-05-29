@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934769031243",
+    "firebase_url": "https://easy-share-5b7f1.firebaseio.com",
+    "project_id": "easy-share-5b7f1",
+    "storage_bucket": "easy-share-5b7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934769031243:android:1eba0fd728bd15881df5ce",
+        "android_client_info": {
+          "package_name": "com.rishav.easyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934769031243-khchpke2s2dganucs3erf78ljsk00v0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.easyshare",
+            "certificate_hash": "9db809c835f76af3a398ec7b7037d299b9cfd46c"
+          }
+        },
+        {
+          "client_id": "934769031243-2td4mq8ldcds6gnklm6c3c7k03ijr11j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNGPVCkd2JKg3XhxTcUUoJr9ZjhqRKBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934769031243-2td4mq8ldcds6gnklm6c3c7k03ijr11j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
